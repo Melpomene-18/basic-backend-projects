@@ -1,0 +1,19 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "Returns true or false, based on whether or not the provided number is prime.",
+  "keywords": [
+    "prime",
+    "number",
+    "prime",
+    "number",
+    "boolean"
+  ],
+  "license": "ISC",
+  "author": "Melpomene",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
