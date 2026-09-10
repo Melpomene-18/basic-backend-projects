@@ -1,0 +1,21 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "Basic express app.",
+  "keywords": [
+    "Express",
+    "GET",
+    "server"
+  ],
+  "license": "ISC",
+  "author": "Melpomene",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
